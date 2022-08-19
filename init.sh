@@ -10,4 +10,4 @@ git config --get user.name USERNAME
 # git remote add origin git@github.com/$USERNAME/$NAME.git
 # git add .
 # git commit -m $NAME
-# git push -u origin master
+#  git push --set-upstream origin master
